@@ -1,0 +1,20 @@
+# Java build output
+*.class
+out/
+build/
+target/
+
+# IDE settings
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Generated/local data
+*.ser
+*.dat
+
+# OS files
+.DS_Store
+Thumbs.db
